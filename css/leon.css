@@ -307,7 +307,8 @@ header .links ul li:not(:last-child) a {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 30px;
-    margin-top: 80px;
+    margin: 80px 23px;
+    text-align: center;
 }
 
 .portfolio .portfolio-content .card {
